@@ -52,6 +52,31 @@ const modernColors = {
 const realProjects = [
   {
     id: 1,
+    title: "Portfolio Website",
+    subtitle: "Personal Portfolio with 3D elements",
+    description:
+      "My personal portfolio website to showcase my skills and projects, built with Next.js and Framer Motion for smooth animations.",
+    longDescription:
+      "This portfolio is a testament to modern web development practices, featuring a clean design, responsive layout, and interactive 3D elements to create a memorable user experience. It's deployed on Vercel for optimal performance and availability.",
+    image: "/portfolio.png",
+    technologies: ["Next.js", "React", "Framer Motion", "Tailwind CSS"],
+    github: "https://github.com/DrunkenMaster420/Portfolio",
+    live: "https://portfolio-63fn.vercel.app/",
+    category: "Web Development",
+    period: "July 2025 - Present",
+    features: [
+      "3D Carousel",
+      "Smooth Animations",
+      "Responsive Design",
+      "Contact Form",
+    ],
+    color: modernColors.secondary,
+    icon: Code,
+    status: "Completed",
+    complexity: "Intermediate",
+  },
+  {
+    id: 3,
     title: "MasterSound E-Commerce Platform",
     subtitle: " Full‑Stack E‑Commerce Platform",
     description:
@@ -119,31 +144,7 @@ const realProjects = [
     status: "Completed",
     complexity: "Advanced",
   },
-  {
-    id: 3,
-    title: "Portfolio Website",
-    subtitle: "Personal Portfolio with 3D elements",
-    description:
-      "My personal portfolio website to showcase my skills and projects, built with Next.js and Framer Motion for smooth animations.",
-    longDescription:
-      "This portfolio is a testament to modern web development practices, featuring a clean design, responsive layout, and interactive 3D elements to create a memorable user experience. It's deployed on Vercel for optimal performance and availability.",
-    image: "/portfolio.png",
-    technologies: ["Next.js", "React", "Framer Motion", "Tailwind CSS"],
-    github: "https://github.com/Pranavkumar2601/portfolio-v2",
-    live: "https://pranav26.netlify.app/",
-    category: "Web Development",
-    period: "July 2025 - Present",
-    features: [
-      "3D Carousel",
-      "Smooth Animations",
-      "Responsive Design",
-      "Contact Form",
-    ],
-    color: modernColors.secondary,
-    icon: Code,
-    status: "Completed",
-    complexity: "Intermediate",
-  },
+
 ];
 
 export default function RealProjectsSection() {
@@ -483,7 +484,7 @@ export default function RealProjectsSection() {
           >
             Want to see more projects? Check out my{" "}
             <a
-              href="https://github.com/Pranavkumar2601?tab=repositories"
+              href="https://github.com/DrunkenMaster420?tab=repositories"
               target="_blank"
               rel="noopener noreferrer"
               className="font-semibold hover:underline transition-colors duration-300"
