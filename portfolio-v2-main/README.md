@@ -1,4 +1,4 @@
-# Pranav Kumar - Portfolio Website
+# Rohit Singh - Portfolio Website
 
 A modern, animated portfolio website built with Next.js, TypeScript, Framer Motion, and Tailwind CSS.
 
@@ -171,11 +171,11 @@ This project is open source and available under the MIT License.
 
 ## Contact
 
-- **Email**: pranavsingh9471@gmail.com
-- **Phone**: +91 9955388960
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/pranav-kumar-singh)
-- **GitHub**: [View my code](https://github.com/pranavkumar9471)
+- **Email**: rohitsinghchandel420@gmail.com@gmail.com
+- **Phone**: +91 8863835862
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/rohit-singh-55437020a/)
+- **GitHub**: [View my code](https://github.com/DrunkenMaster420)
 
 ---
 
-Built with ❤️ by Pranav Kumar
+Built with ❤️ by Rohit Singh
