@@ -171,7 +171,7 @@ This project is open source and available under the MIT License.
 
 ## Contact
 
-- **Email**: rohitsinghchandel420@gmail.com@gmail.com
+- **Email**: rohitsinghchandel420@gmail.com
 - **Phone**: +91 8863835862
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/rohit-singh-55437020a/)
 - **GitHub**: [View my code](https://github.com/DrunkenMaster420)
